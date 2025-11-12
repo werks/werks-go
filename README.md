@@ -1,2 +1,2 @@
-# wlib-go
-Werks Library: general purpose utilities
+# werks-go
+Library of general purpose utilities.
